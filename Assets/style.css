@@ -75,7 +75,6 @@
   }
   
    .card {
-    transform: rotate(15deg);
     background-color:black ;
     border-color:white ;
     border-style: double;
