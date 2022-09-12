@@ -14,13 +14,13 @@ body {
 header {
   padding: 20px;
   text-align: center;
-  background:#C1E1C1;
+  background: #6495ed;
   color: #fff;
 }
 
 nav {
   display: flex;
-  background-color: #9FE2BF;
+  background-color: #f0f8ff;
   margin: 0;
 }
 
@@ -33,7 +33,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #0BDA51;
+  color: red;
 }
 
 main {
@@ -46,7 +46,7 @@ aside {
   border: #13293d;
   border-width: 10px;
   flex: 1;
-  background-color:#9FE2BF;
+  background-color:#C0C0C0;
   padding: 80px;
   text-align: left;
   color: black;
@@ -58,15 +58,15 @@ footer {
   bottom: 20;
   padding: 20px;
   text-align: center;
-  background: #9FE2BF;
+  background: #13293d;
   color: #fff;
   margin-top: auto;
 }
 
 .images {
-  
+
   flex: 3;
-  background-color: #9FE2BF;
+  background-color:black;
   padding: 0px;
   display: flex;
   flex-wrap: wrap;
@@ -75,11 +75,11 @@ footer {
 }
 
  .card {
-  box-shadow: 5px 10px #C1E1C1;
   background-color:black ;
   border-color:white ;
   border-style: double;
   border-width: 6px;
+  box-shadow: 10px 20px #C0C0C0;
   padding: 0px;
   margin: 0px;
   height: 300px;
