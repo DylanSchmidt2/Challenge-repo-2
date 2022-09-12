@@ -2,7 +2,7 @@
 
 ## Description
 
-We were given the task of creating an application to showcase our profile!
+We were given the task of creating an application to showcase our portfolio!
 
 ## Points
 Bio
