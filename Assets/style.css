@@ -20,13 +20,13 @@ header {
 
 nav {
   display: flex;
-  background-color: #f0f8ff;
+  background-color: #13293d;
   margin: 0;
 }
 
 nav a {
   margin: 0;
-  color: #13293d;
+  color: white;
   padding: 200px 20px;
   text-decoration: none;
   text-align: center;
